@@ -1,0 +1,35 @@
+{
+  "name":  "WebApp" ,
+  "short_name":  "WebApp" ,
+  "start_url": "/index.php/admin/login/",
+  "scope": "/index.php/admin/login/",
+  "display": "standalone",
+  "background_color": "#FF9800",
+  "theme_color": "#FF9800",
+  "description": "This is Multi PWA",
+  "icons": [{
+    "src": "https://cdn.glitch.com/19652d3c-eecd-49a3-8079-cc0706979006%2F48.png?1527449758410",
+    "sizes": "48x48",
+    "type": "image/png"
+  },
+  {
+    "src": "https://cdn.glitch.com/19652d3c-eecd-49a3-8079-cc0706979006%2F96.png?1527449758334",
+    "sizes": "96x96",
+    "type": "image/png"
+  },
+  {
+    "src": "https://cdn.glitch.com/19652d3c-eecd-49a3-8079-cc0706979006%2F144.png?1527449758334",
+    "sizes": "144x144",
+    "type": "image/png"
+  },
+  {
+    "src": "https://cdn.glitch.com/19652d3c-eecd-49a3-8079-cc0706979006%2F192.png?1527449758334",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "https://cdn.glitch.com/19652d3c-eecd-49a3-8079-cc0706979006%2F512.png?1527449758334",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}

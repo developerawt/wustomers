@@ -1,0 +1,23 @@
+@media screen and (max-width: 767px) {
+.login_wrapper {
+   margin-top: 56px !important;
+}
+.alert-danger, .alert-error {
+margin-top: 20px!important;
+
+}
+.alert-success{
+margin-top:20px!important;
+}
+.form-1 {
+    width: 100%!important;
+
+    }
+    .center-btn .float-right{
+	float: none !important;
+}
+
+}
+.center-btn .float-right{
+	float: right;
+}

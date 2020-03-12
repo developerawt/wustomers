@@ -1,0 +1,15 @@
+.card {
+  margin: 15px;
+}
+
+.container {
+  text-align: center;
+}
+.menu_section > ul{
+text-align: left!important;
+margin-top: 20px;
+}
+.navbar.nav_title .clearfix{
+border-bottom:1px solid #172d44;
+margin-bottom:10px;
+}
